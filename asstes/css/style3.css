@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    border: solid black 2px;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    row-gap: 3rem;
+}
+.boton{
+    margin-bottom: 2rem;
+}

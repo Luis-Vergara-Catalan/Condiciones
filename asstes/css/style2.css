@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    column-gap: 3rem;
+    justify-content: center;
+}
+    
+.tarjeta{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    row-gap: 3rem;
+}
+button{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 49%;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    display: flex;
+    margin-top: 60px;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display: flex;
+    margin-top: 60px;
+    justify-content: center;
+    align-items: center;
+}
